@@ -517,10 +517,10 @@ namespace OsuBeatmapsetDownloader
             if (DL_Complete + DL_Failed >= DL_Count)
             {
                 // show the progress in the title bar
-                Console.Title = $"Osu! Beatmap Downloader [Done downloading!]";
+                Console.Title = "Osu! Beatmap Downloader [Done downloading!]";
                 // and pop a message box
                 System.Windows.Forms.MessageBox.Show
-                    ("Finished downloading {DL_Complete}/{DL_Count} beatmap sets ({DL_Failed} Failed)."
+                    ($"Finished downloading {DL_Complete}/{DL_Count} beatmap sets ({DL_Failed} Failed)."
                     + "\nYou can safely close the downloader now :)", "Finished Downloading!");
             }
         }
