@@ -1,0 +1,6 @@
+D:\Workspace\OsuBeatmapsetDownloader\OsuBeatmapsetDownloader\bin\Release\OsuBeatmapsetDownloader.exe.config
+D:\Workspace\OsuBeatmapsetDownloader\OsuBeatmapsetDownloader\bin\Release\OsuBeatmapsetDownloader.exe
+D:\Workspace\OsuBeatmapsetDownloader\OsuBeatmapsetDownloader\bin\Release\OsuBeatmapsetDownloader.pdb
+D:\Workspace\OsuBeatmapsetDownloader\OsuBeatmapsetDownloader\obj\Release\OsuBeatmapsetDownloader.csproj.CoreCompileInputs.cache
+D:\Workspace\OsuBeatmapsetDownloader\OsuBeatmapsetDownloader\obj\Release\OsuBeatmapsetDownloader.exe
+D:\Workspace\OsuBeatmapsetDownloader\OsuBeatmapsetDownloader\obj\Release\OsuBeatmapsetDownloader.pdb
